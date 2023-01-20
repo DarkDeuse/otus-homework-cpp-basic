@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\Dev\otus-homework-cpp-basic\build\CMakeFiles\0cf1dce71f39fe2e504652911b5bb2cd\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4646FC03-A48C-3A11-95B6-E7BF16BFE5D0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

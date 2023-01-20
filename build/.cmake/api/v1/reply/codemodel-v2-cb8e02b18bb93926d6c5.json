@@ -1,0 +1,792 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						4
+					]
+				},
+				{
+					"build" : "hello",
+					"jsonFile" : "directory-hello-Debug-b8261041e6cd21986be3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "hello",
+					"targetIndexes" : 
+					[
+						1,
+						5
+					]
+				},
+				{
+					"build" : "hello2",
+					"jsonFile" : "directory-hello2-Debug-513717f76f10a0f98e3d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "hello2",
+					"targetIndexes" : 
+					[
+						2,
+						6
+					]
+				},
+				{
+					"build" : "homework",
+					"jsonFile" : "directory-homework-Debug-851d0af921879e68b6a6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "homework",
+					"targetIndexes" : 
+					[
+						3,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "02_hello_world",
+					"targetIndexes" : 
+					[
+						0,
+						4
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "hello",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1,
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "hello2",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2,
+						6
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "01.hello_world",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Debug-da486a82b782e9c3f1dd.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ALL_BUILD::@3338be694f50c5f33881",
+					"jsonFile" : "target-ALL_BUILD-Debug-0ee567c4e444491e7487.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "ALL_BUILD::@8eef8ce33474837aef7e",
+					"jsonFile" : "target-ALL_BUILD-Debug-e9afadb7e79a3ff29a53.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "ALL_BUILD::@7fe97c330bf91510a04f",
+					"jsonFile" : "target-ALL_BUILD-Debug-92f2f3064ac5db6901b2.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Debug-5fc22c327203390d9391.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "hello::@3338be694f50c5f33881",
+					"jsonFile" : "target-hello-Debug-a13ade315b94925c159e.json",
+					"name" : "hello",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "hello2::@8eef8ce33474837aef7e",
+					"jsonFile" : "target-hello2-Debug-c319b1f7744e7b2e0686.json",
+					"name" : "hello2",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "hello_world::@7fe97c330bf91510a04f",
+					"jsonFile" : "target-hello_world-Debug-f2b4399aeaf63f81e636.json",
+					"name" : "hello_world",
+					"projectIndex" : 3
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						4
+					]
+				},
+				{
+					"build" : "hello",
+					"jsonFile" : "directory-hello-Release-b8261041e6cd21986be3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "hello",
+					"targetIndexes" : 
+					[
+						1,
+						5
+					]
+				},
+				{
+					"build" : "hello2",
+					"jsonFile" : "directory-hello2-Release-513717f76f10a0f98e3d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "hello2",
+					"targetIndexes" : 
+					[
+						2,
+						6
+					]
+				},
+				{
+					"build" : "homework",
+					"jsonFile" : "directory-homework-Release-851d0af921879e68b6a6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "homework",
+					"targetIndexes" : 
+					[
+						3,
+						7
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "02_hello_world",
+					"targetIndexes" : 
+					[
+						0,
+						4
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "hello",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1,
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "hello2",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2,
+						6
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "01.hello_world",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Release-da486a82b782e9c3f1dd.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ALL_BUILD::@3338be694f50c5f33881",
+					"jsonFile" : "target-ALL_BUILD-Release-0ee567c4e444491e7487.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "ALL_BUILD::@8eef8ce33474837aef7e",
+					"jsonFile" : "target-ALL_BUILD-Release-e9afadb7e79a3ff29a53.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "ALL_BUILD::@7fe97c330bf91510a04f",
+					"jsonFile" : "target-ALL_BUILD-Release-92f2f3064ac5db6901b2.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Release-5fc22c327203390d9391.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "hello::@3338be694f50c5f33881",
+					"jsonFile" : "target-hello-Release-a8a5e905da3aed23a1bf.json",
+					"name" : "hello",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "hello2::@8eef8ce33474837aef7e",
+					"jsonFile" : "target-hello2-Release-18c48f61954f91086c4b.json",
+					"name" : "hello2",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "hello_world::@7fe97c330bf91510a04f",
+					"jsonFile" : "target-hello_world-Release-3c064c8e42796b0b339c.json",
+					"name" : "hello_world",
+					"projectIndex" : 3
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"jsonFile" : "directory-.-MinSizeRel-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						4
+					]
+				},
+				{
+					"build" : "hello",
+					"jsonFile" : "directory-hello-MinSizeRel-b8261041e6cd21986be3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "hello",
+					"targetIndexes" : 
+					[
+						1,
+						5
+					]
+				},
+				{
+					"build" : "hello2",
+					"jsonFile" : "directory-hello2-MinSizeRel-513717f76f10a0f98e3d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "hello2",
+					"targetIndexes" : 
+					[
+						2,
+						6
+					]
+				},
+				{
+					"build" : "homework",
+					"jsonFile" : "directory-homework-MinSizeRel-851d0af921879e68b6a6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "homework",
+					"targetIndexes" : 
+					[
+						3,
+						7
+					]
+				}
+			],
+			"name" : "MinSizeRel",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "02_hello_world",
+					"targetIndexes" : 
+					[
+						0,
+						4
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "hello",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1,
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "hello2",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2,
+						6
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "01.hello_world",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-da486a82b782e9c3f1dd.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ALL_BUILD::@3338be694f50c5f33881",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-0ee567c4e444491e7487.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "ALL_BUILD::@8eef8ce33474837aef7e",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-e9afadb7e79a3ff29a53.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "ALL_BUILD::@7fe97c330bf91510a04f",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-92f2f3064ac5db6901b2.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-MinSizeRel-5fc22c327203390d9391.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "hello::@3338be694f50c5f33881",
+					"jsonFile" : "target-hello-MinSizeRel-6db95d261b7a6f179138.json",
+					"name" : "hello",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "hello2::@8eef8ce33474837aef7e",
+					"jsonFile" : "target-hello2-MinSizeRel-653d629e7b35744104ee.json",
+					"name" : "hello2",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "hello_world::@7fe97c330bf91510a04f",
+					"jsonFile" : "target-hello_world-MinSizeRel-83e10d2fc204ba7beebc.json",
+					"name" : "hello_world",
+					"projectIndex" : 3
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"jsonFile" : "directory-.-RelWithDebInfo-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						4
+					]
+				},
+				{
+					"build" : "hello",
+					"jsonFile" : "directory-hello-RelWithDebInfo-b8261041e6cd21986be3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "hello",
+					"targetIndexes" : 
+					[
+						1,
+						5
+					]
+				},
+				{
+					"build" : "hello2",
+					"jsonFile" : "directory-hello2-RelWithDebInfo-513717f76f10a0f98e3d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "hello2",
+					"targetIndexes" : 
+					[
+						2,
+						6
+					]
+				},
+				{
+					"build" : "homework",
+					"jsonFile" : "directory-homework-RelWithDebInfo-851d0af921879e68b6a6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "homework",
+					"targetIndexes" : 
+					[
+						3,
+						7
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "02_hello_world",
+					"targetIndexes" : 
+					[
+						0,
+						4
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "hello",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1,
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "hello2",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2,
+						6
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "01.hello_world",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-da486a82b782e9c3f1dd.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ALL_BUILD::@3338be694f50c5f33881",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-0ee567c4e444491e7487.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "ALL_BUILD::@8eef8ce33474837aef7e",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-e9afadb7e79a3ff29a53.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "ALL_BUILD::@7fe97c330bf91510a04f",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-92f2f3064ac5db6901b2.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-RelWithDebInfo-5fc22c327203390d9391.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "hello::@3338be694f50c5f33881",
+					"jsonFile" : "target-hello-RelWithDebInfo-de45b5588622464f3c1a.json",
+					"name" : "hello",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "hello2::@8eef8ce33474837aef7e",
+					"jsonFile" : "target-hello2-RelWithDebInfo-f8ca70c9f4d11e812a93.json",
+					"name" : "hello2",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "hello_world::@7fe97c330bf91510a04f",
+					"jsonFile" : "target-hello_world-RelWithDebInfo-96a57bf377a94e7f58af.json",
+					"name" : "hello_world",
+					"projectIndex" : 3
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Dev/otus-homework-cpp-basic/build",
+		"source" : "E:/Dev/otus-homework-cpp-basic"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,8 @@
+E:/Dev/otus-homework-cpp-basic/build/CMakeFiles/ALL_BUILD.dir
+E:/Dev/otus-homework-cpp-basic/build/CMakeFiles/ZERO_CHECK.dir
+E:/Dev/otus-homework-cpp-basic/build/hello/CMakeFiles/hello.dir
+E:/Dev/otus-homework-cpp-basic/build/hello/CMakeFiles/ALL_BUILD.dir
+E:/Dev/otus-homework-cpp-basic/build/hello2/CMakeFiles/hello2.dir
+E:/Dev/otus-homework-cpp-basic/build/hello2/CMakeFiles/ALL_BUILD.dir
+E:/Dev/otus-homework-cpp-basic/build/homework/CMakeFiles/hello_world.dir
+E:/Dev/otus-homework-cpp-basic/build/homework/CMakeFiles/ALL_BUILD.dir
